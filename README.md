@@ -1,5 +1,10 @@
 # Authority
 
+# Authority Package for DFlow CMS
+
+This is a modified version of the [github.com/harranali/authority](https://github.com/harranali/authority) package, with custom changes tailored for our DFlow CMS system. More information will be provided soon.
+
+
 ![Build Status](https://github.com/harranali/authority/actions/workflows/build-main.yml/badge.svg)
 ![Test Status](https://github.com/harranali/authority/actions/workflows/test-main.yml/badge.svg)
 [![Go Report Card](https://goreportcard.com/badge/github.com/harranali/authority)](https://goreportcard.com/report/github.com/harranali/authority)
